@@ -1,0 +1,76 @@
+.header_title {
+  padding: 20px;
+}
+
+.input_task {
+  margin: 10px;
+  height: 30px;
+  width: 150px;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.btn_task {
+  height: 30px;
+  width: 30px;
+  border-radius: 8px;
+  background-color: green;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.task {
+  padding: 5px;
+}
+
+.input_check {
+  margin-right: 5px;
+}
+
+.task_title {
+  margin-right: 8px;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  color: #43a8f6;
+}
+
+.btn_remove {
+  height: 24px;
+  width: 32px;
+  font-size: 16px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: red;
+}
+
+.btn_filter_all {
+  padding: 8px;
+  font-size: 18px;
+  font-weight: 700;
+  font-style: italic;
+  border-radius: 12px;
+  background-color: yellow;
+  margin: 8px;
+}
+
+.btn_filter_active {
+  margin: 8px;
+  font-size: 18px;
+  font-weight: 700;
+  font-style: italic;
+  border-radius: 12px;
+  background-color: red;
+  padding: 8px;
+}
+
+.btn_filter_completed {
+  margin: 8px;
+  font-size: 18px;
+  font-weight: 700;
+  font-style: italic;
+  border-radius: 12px;
+  background-color: green;
+  padding: 8px;
+}
